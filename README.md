@@ -3,10 +3,10 @@ Welcome to the first week of the third module of YoS!
 
 ![](https://github.com/me-resilient64/nancy/blob/main/what.png)
 
-This week we're going to be dealing with Steganography. It is basically hiding a (secret) message inside 
+This week, we're going to be dealing with Steganography. It is basically hiding a (secret) message inside 
 something (possibly, another message). It may be physical or digital, on paper or image/audio. 
 
-So, there's a difference between cryptography and steganography. Cryptography is the practice of protecting the message alone whilst steganography is concerned with concealing the fact that a secret message is being sent.
+So there's a difference between cryptography and steganography. Cryptography is the practice of protecting the message alone whilst steganography is concerned with concealing the fact that a secret message is being sent.
 The advantage of steganography over cryptography is that the secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may in themselves be incriminating in countries in which encryption is illegal (see https://www.gp-digital.org/world-map-of-encryption/).
 
 
@@ -35,7 +35,7 @@ https://www.youtube.com/playlist?list=PL1H1sBF1VAKV6rTEh76pxQKgeFwme5gsT
 
 https://www.youtube.com/watch?v=TWEXCYQKyDc
 
-## Practise:
+## Practice:
 https://play.picoctf.org/
 
 https://ctflearn.com/
