@@ -41,7 +41,7 @@ https://play.picoctf.org/
 https://ctflearn.com/
 
 ## Challenges
-We have designed 5 challenges:
+We have designed 3 challenges:
 
 1. Bernhard-Riemann
 2. Weird
